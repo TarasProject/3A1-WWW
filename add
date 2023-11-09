@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+border: 1px solid #dcdcdc;
+border-collapse: collapse;
+
+ul li {
+  text-align: left;
+  text-align: left;
+  font-family: heebo;
+  padding: 10px 15px;
+  display: inline-block;
+  background-color: #f3f6f7;
+
+}
+
+ul li:hover {
+  background-color: #d2dee4;
+}
+
+ul {
+
+  border-bottom: 1px solid #d2dee4;
+}
